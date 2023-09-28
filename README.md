@@ -7,3 +7,6 @@ Para executar é necessario baixar o arquivo "Exact.zip" extrai-lo e importar o 
 
 
 O Arquivo "TestesExact.docx" contem também as evidencias e uma breve descrição por teste.
+
+Link para visualização dos testes que foram automatizados.
+https://www.youtube.com/watch?v=TxUOMC_mDNg
